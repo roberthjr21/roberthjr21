@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/roberth junior navarro amelines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roberth junior navarro amelines" height="30" width="40" /></a>
-<a href="https://fb.com/roberth navarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roberth navarro" height="30" width="40" /></a>
+<a href="[https://x.com/AmelinesJunior](https://x.com/AmelinesJunior)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roberth junior navarro amelines" height="30" width="40" /></a>
+<a href="https://www.facebook.com/roberth.navarro.739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roberth navarro" height="30" width="40" /></a>
 <a href="https://instagram.com/roberth33222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberth33222" height="30" width="40" /></a>
 </p>
 
